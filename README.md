@@ -1,4 +1,4 @@
-## Olá, eu sou a Júlia Paes
+## Oii, eu sou a Júlia Paes
 
 - 📚 Estudando Java
 
