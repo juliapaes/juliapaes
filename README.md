@@ -1,8 +1,8 @@
-## Oii! eu sou a Julia Paes
+## Oii!! eu sou a Julia Paes
 Estudando atualmente Java e Poo📚
 <div>
   <a href="https://github.com/juliapaes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliapaes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliapaes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliapaes&layout=compact&langs_count=7&theme=cobalt"/>
   </div>
    
