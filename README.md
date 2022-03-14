@@ -1,5 +1,5 @@
 ## Hi!! i'am Julia :)
-Estudando atualmente Java📚
+Estudando atualmente Java☕️
 <div align="center">
   <a href="https://github.com/juliapaes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliapaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
