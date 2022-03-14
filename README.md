@@ -1,4 +1,4 @@
-## Oii!! eu sou a Julia Paes
+## Hi!! i'am Julia :)
 Estudando atualmente Java e Poo📚
 <div align="center">
   <a href="https://github.com/juliapaes">
