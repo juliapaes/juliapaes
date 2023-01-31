@@ -1,6 +1,6 @@
- <a href="https://www.linkedin.com/in/julia-paes-pinheiro-529a11214/" target="_blank"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=024df1&height=120&section=header"/>
+ <a href="https://www.linkedin.com/in/julia-paes-pinheiro-529a11214/" target="_blank"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5725FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=024df1&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo!+Meu+nome+é+Julia+Paes;Sou+desenvolvedora+Back-end;Formada+em+curso+de+qualificação+em+Java+;Deixo+meus+contatos+à+disposição!+:%29)](https://www.linkedin.com/in/julia-paes-pinheiro-529a11214/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5725FF&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo!+Meu+nome+é+Julia+Paes;Sou+desenvolvedora+Back-end;Formada+em+curso+de+qualificação+em+Java+;Deixo+meus+contatos+à+disposição!+:%29)](https://www.linkedin.com/in/julia-paes-pinheiro-529a11214/)
 
 - 💻  Hoje trabalho com desenvolvimento Back-end.
 <!-- - 📚  Cursando Engenharia de Software. -->
@@ -28,5 +28,5 @@
 
   ![Snake animation](https://github.com/juliapaes/juliapaes/blob/output/github-contribution-grid-snake.svg)
   
- <a href="https://www.linkedin.com/in/julia-paes-pinheiro-529a11214/" target="_blank"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=024df1&height=120&section=footer"/>
+ <a href="https://www.linkedin.com/in/julia-paes-pinheiro-529a11214/" target="_blank"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5725FF&height=120&section=footer"/>
 
