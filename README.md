@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5725FF&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo!+Meu+nome+é+Julia+Paes;Sou+desenvolvedora+Back-end;Formada+em+curso+de+qualificação+em+Java+;Deixo+meus+contatos+à+disposição!+:%29)](https://www.linkedin.com/in/julia-paes-pinheiro-529a11214/)
 
 - 💻  Hoje trabalho com desenvolvimento Back-end.
-<!-- - 📚  Cursando Engenharia de Software. -->
+- 📚  Cursando Engenharia de Software.
 - 📫 Contato: jpaespinheiro@gmail.com
 
 <!-- <div align="center"> -->
