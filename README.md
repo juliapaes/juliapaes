@@ -16,6 +16,7 @@
     <a href="https://instagram.com/juliapaees_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/julia-paes-pinheiro-529a11214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="mailto: jpaespinheiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/julia-paes-pinheiro-529a11214/" target="_blank"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5725FF&height=120&section=footer"/>
   </div>
   
  <div style="display: inline_block"><br>
@@ -24,9 +25,7 @@
   <img align="center" alt="Julia-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Julia-Postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
  
-</div>
+</div>  
 
-  ![Snake animation](https://github.com/juliapaes/juliapaes/blob/output/github-contribution-grid-snake.svg)
-  
- <a href="https://www.linkedin.com/in/julia-paes-pinheiro-529a11214/" target="_blank"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5725FF&height=120&section=footer"/>
+   ![Snake animation](https://github.com/juliapaes/juliapaes/blob/output/github-contribution-grid-snake.svg)
 
